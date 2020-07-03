@@ -1,1 +1,1 @@
-Hallo, dies ist eine GEÄNDERTE Text-Datei
+Dies ist ein komplett neuer Text!
